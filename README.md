@@ -22,6 +22,16 @@ A positive correlation of 0.31 shows that Age is moderately correlated to Marita
 
 ### RFM Analysis
 <img alt="YOUR-ALT-TEXT" src="CustomerSegmentation.png">
+By performing Customer Segmentation using Python, K-Means Custering, we transform raw data into actionable insights, businesses can use the findings to market to the right customers. Our analysis identifies 3 distinct shppint behaviors:<br>
+Low value customers: rare shoppers with with low spending<br>
+Moderate value customers: Moderate shopers with moderate spending<br>
+High value customers: High value customers with high spending<br>
+Recommendation:<br>
+Re-engage low-value customers by introducing personalized discounts to encourage repeat purchases<br>
+Entice more customers to buy more frequently by loyalty program<br>
+Retain high value customers by offering them exclusive perks like early access to sales and free shipping to retain loyalty 
+
+
 
 
 
