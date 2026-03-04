@@ -12,6 +12,16 @@ Handling categorical values by encoding gender, age group and city into numerica
 
 ## Results and Business Recommendation
 ### Exploratory Data Analysis(EDA)
+<img alt="YOUR-ALT-TEXT" src="Results.png">
+More male customers contributed to the spending.
+Majority of the customers come from the 26-35 age group.
+
+### Correlation Matrix
+<img alt="YOUR-ALT-TEXT" src="Correlation.png">
+A positive correlation of 0.31 shows that Age is moderately correlated to Marital_Status. This means that older peopel are likely to be married.
 
 ### RFM Analysis
+<img alt="YOUR-ALT-TEXT" src="CustomerSegmentation.png">
+
+
 
