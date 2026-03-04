@@ -5,7 +5,7 @@ Business problem: Walmart department store collects a transaction data (spending
 Python (Pandas, Matplotlib, Seaborn, Scikit-Learn)\
 RFM Analysis
 
-### PreProcessing\
+### PreProcessing
 Check for missing values\
 Removing duplicate records\
 Handling categorical values by encoding gender, age group and city into numerical form
