@@ -1,5 +1,5 @@
 # Customer Segmentation using Machine Learning
-Business problem: Walmart department store collects a transaction data (spending amount, purchase frequency), it treats customers the same. The company need to improve by understanding customer segmentation by purchasing behavior and personalize marketing strategies accordingly to reduce customer churn and deliver personalized marketing. 
+Business problem: Walmart department store collects a transaction data (spending amount, purchase frequency), it treats customers the same. The company need to improve by understanding customer segmentation by purchasing behavior and personalize marketing strategies accordingly to deliver personalized marketing. 
 
 ## Methodology
 Python (Pandas, Matplotlib, Seaborn, Scikit-Learn)\
