@@ -3,8 +3,8 @@ Business problem: Walmart department store collects a transaction data (spending
 
 ## Methodology
 Python (Pandas, Matplotlib, Seaborn, Scikit-Learn)\
-RFM Analysis
-
+RFM Analysis\
+K means custers
 ### PreProcessing
 Check for missing values\
 Removing duplicate records\
