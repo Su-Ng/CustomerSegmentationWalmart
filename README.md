@@ -22,7 +22,7 @@ A positive correlation of 0.31 shows that Age is moderately correlated to Marita
 
 ### RFM Analysis
 <img alt="YOUR-ALT-TEXT" src="CustomerSegmentation.png">
-By performing Customer Segmentation using Python, K-Means Clustering, we transform raw data into actionable insights, businesses can use the findings to market to the right customers. Our analysis identifies 3 distinct shopping behaviours:<br>
+By performing Customer Segmentation using Python, K-Means Clustering, we transform raw data into actionable insights, the findings can be used to market to the right customers. Our analysis identifies 3 distinct shopping behaviours:<br>
 Low value customers: rare shoppers with with low spending<br>
 Moderate value customers: Moderate shoppers with moderate spending<br>
 High value customers: High value customers with high spending<br>
