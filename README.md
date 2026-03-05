@@ -18,13 +18,13 @@ Majority of the customers come from the 26-35 age group.
 
 ### Correlation Matrix
 <img alt="YOUR-ALT-TEXT" src="Correlation.png">
-A positive correlation of 0.31 shows that Age is moderately correlated to Marital_Status. This means that older peopel are likely to be married.
+A positive correlation of 0.31 shows that Age is moderately correlated to Marital_Status. This means that older people are likely to be married.
 
 ### RFM Analysis
 <img alt="YOUR-ALT-TEXT" src="CustomerSegmentation.png">
-By performing Customer Segmentation using Python, K-Means Custering, we transform raw data into actionable insights, businesses can use the findings to market to the right customers. Our analysis identifies 3 distinct shppint behaviors:<br>
+By performing Customer Segmentation using Python, K-Means Clustering, we transform raw data into actionable insights, businesses can use the findings to market to the right customers. Our analysis identifies 3 distinct shopping behaviours:<br>
 Low value customers: rare shoppers with with low spending<br>
-Moderate value customers: Moderate shopers with moderate spending<br>
+Moderate value customers: Moderate shoppers with moderate spending<br>
 High value customers: High value customers with high spending<br>
 Recommendation:<br>
 Re-engage low-value customers by introducing personalized discounts to encourage repeat purchases<br>
